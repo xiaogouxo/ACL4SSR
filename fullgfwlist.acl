@@ -5350,7 +5350,6 @@
 (^|\.)www\.sciencemag\.org$
 (^|\.)www\.shadowsocks\.com$
 (^|\.)www\.shwchurch\.org$
-(^|\.)www\.skype\.com$
 (^|\.)www\.tablesgenerator\.com$
 (^|\.)www\.taiwanonline\.cc$
 (^|\.)www\.taup\.org\.tw$
@@ -5771,3 +5770,17 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+#自定义
+(^|\.)skype\.com$
+(^|\.)skype\.net$
+(^|\.)akadns\.net$
+(^|\.)cloudapp\.net$
+(^|\.)pushbullet\.com$
+(^|\.)pushbulletusercontent\.com$
+(^|\.)slack\.com$
+(^|\.)slack-edge\.com$
+(^|\.)send-anywhere\.com$
+(^|\.)sendanywhe\.re$
+(^|\.)hockeyapp\.net$
+(^|\.)cloudfront\.net$
