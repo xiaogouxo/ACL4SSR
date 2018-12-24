@@ -5780,6 +5780,7 @@
 (^|\.)pushbulletusercontent\.com$
 (^|\.)slack\.com$
 (^|\.)slack-edge\.com$
+(^|\.)slack-msgs\.com$
 (^|\.)send-anywhere\.com$
 (^|\.)sendanywhe\.re$
 (^|\.)hockeyapp\.net$
