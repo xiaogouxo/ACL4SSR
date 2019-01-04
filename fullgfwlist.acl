@@ -5785,3 +5785,5 @@
 (^|\.)hockeyapp\.net$
 (^|\.)cloudfront\.net$
 (^|\.)googleapi\.cn$
+(^|\.)android\.clients\.google\.com$
+(^|\.)mtalk\.google\.com$
